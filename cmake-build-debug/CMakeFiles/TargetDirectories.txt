@@ -1,0 +1,3 @@
+/home/nika/docDB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nika/docDB/cmake-build-debug/CMakeFiles/docDB.dir
+/home/nika/docDB/cmake-build-debug/CMakeFiles/edit_cache.dir
